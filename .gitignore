@@ -1,0 +1,33 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binaries
+*.exe
+*.out
+*.app
+
+# Static & shared libs
+*.a
+*.so
+*.dll
+*.dylib
+
+# Debug & build files
+*.pdb
+*.mod
+*.ilk
+*.idb
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.suo
+*.user
+*.ncb
+*.cache
+*.log
+
+# Build directories
+build/
+bin/
