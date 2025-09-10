@@ -36,6 +36,8 @@ class FileMonitor : public Monitor {
                 "explorer.exe",
                 "services.exe",
                 "svchost.exe"
+
+
             };
         }
 
