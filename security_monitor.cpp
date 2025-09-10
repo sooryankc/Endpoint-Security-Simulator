@@ -18,7 +18,6 @@ class FileMonitor {
                 "system32.dll",
                 "config.sys",
                 "boot.ini",
-                "boot.ini",
                 "registry.dat",
                 "autoexec.bat",
                 "winlogon.exe",
